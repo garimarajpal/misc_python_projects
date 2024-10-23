@@ -5,9 +5,9 @@ This Python Portfolio showcases a collection of projects that highlight my progr
 In addition to core Python development, I have experience in testing using pytest and Selenium, ensuring robust and reliable applications. My projects incorporate automated testing strategies to validate functionality and improve software quality.
 
 ## Projects
-1. Brief description of what this project does.
-2. Brief description of this project.
-3. Brief description of this project.
+1. 
+2. 
+3. 
 
 ## Technologies Used
 * Python 3.8.2
