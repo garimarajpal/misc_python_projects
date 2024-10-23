@@ -11,6 +11,5 @@ In addition to core Python development, I have experience in testing using pytes
 
 ## Technologies Used
 * Python 3.8.2
-* Libraries: Django, Flask, pytest
 * Tools: Jupyter Notebook, Selenium
 * IDE: PyCharm
